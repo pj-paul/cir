@@ -27,6 +27,8 @@ encoding: utf-8
 collections:
   texts:
     output: true
+  random:
+    output: true
 
 # Markdown specs
 markdown: kramdown
