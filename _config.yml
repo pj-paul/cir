@@ -1,17 +1,17 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
+title:               Crop Insurance
 tagline:             'a jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+url:                 'http://pj-paul.github.io/crop-insurance'
+baseurl:             ''
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              PJ Paul
+  url:               https://twitter.com/pjp_tweets
+  email:             ''
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
