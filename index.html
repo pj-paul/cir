@@ -31,4 +31,16 @@ title: "Crop Insurance"
     </li>
   {% endfor %}
   </ul>
+  
+  <h2>No 2</h2>
+  <ul class="texts">
+  {% for item in site.random %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
 </div>
