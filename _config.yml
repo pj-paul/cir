@@ -5,7 +5,7 @@ title:               Crop Insurance
 tagline:             'a jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'https://pj-paul.github.io/crop-insurance'
-baseurl:             ''
+baseurl:             'https://pj-paul.github.io/crop-insurance'
 
 # About/contact
 author:
