@@ -1,0 +1,38 @@
+#+SETUPFILE: ~/GoogleDrive/Blogs/org_tools/setup_file.org
+
+#+begin_src yaml :exports results :results value html
+---
+layout: post
+title: A 10,00 feet high view of crop-insurance
+excerpt: 
+---
+#+end_src
+
+* What is crop-insurance
+Crop-insurance is a contractual instrument used by farmers to protect themselves from financial loss due to loss of output. 
+Farmer can guarantee his output. Lock in a certain level of output. 
+At the time of harvest, the actual yield is calculated, and any shortfall is covered via an insurance pay out. 
+
+Yield-based insurance
+
+Parametric insurance: Indexed against an external variable which affects output. 
+* Why is crop-insurance necessary?
+** Farm incomes are vulnerable.
+** This vulnerability leads to under-investments in productive inputs.
+** Summarize evidence for risk-return trade-off.
+
+* How does crop-insurance work in practise?
+** Yield-based insurance
+** Parametric insurance
+* Indian experience with crop-insurance
+** Historical attempts
+** PMFSBY
+* State of Indian crop-insurance
+** Major Players
+** Financial situation of different insureres
+** Operational efficiency of the scheme
+* Fixing Indian crop-insurance
+** Is crop-insurance in Indian viable for the insureres over a reasonable time period?
+** Yield-based v/s Parametric insurance
+** 
+
