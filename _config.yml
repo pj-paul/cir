@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Crop Insurance
+title:               Crop Insurance Review
 tagline:             'An opinionated, personal blog on crop-insurance in India and the developing world.'
 description:         'Crop insurance is great. We should have more of it.'
-url:                 'https://pj-paul.github.io/crop-insurance'
-baseurl:             'https://pj-paul.github.io/crop-insurance'
+url:                 'https://pj-paul.github.io/cir'
+baseurl:             'https://pj-paul.github.io/cir'
 
 # About/contact
 author:
